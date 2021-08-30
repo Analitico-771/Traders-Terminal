@@ -1,15 +1,15 @@
 
 # `The Purpose of the indicator that I'm building`
-This indicator is a Dashboard that displays market information and analytical data on the markets, directly on the broker platform. No need to switch between charts or websites looking at dozens of indicators.
+    This indicator is a Dashboard that displays market information and analytical data on the markets, directly on the broker platform. No need to switch between charts or websites looking at dozens of indicators.
 
-When used combined as a strategy the user gets real-time analysis of market conditions across many markets and this provides a better overall picture of true market conditions.
+    When used combined as a strategy the user gets real-time analysis of market conditions across many markets and this provides a better overall picture of true market conditions.
 
-This is your one-stop-shop to view actionable market data.
+    This is your one-stop-shop to view actionable market data.
 
 # `How to install and use the indicator`
-The indicator is proprietary and it's the reason why the code is not released.  It works on several MT4 brokers so it's made for the MT4 Platform.
+    The indicator is proprietary and it's the reason why the code is not released.  It works on several MT4 brokers so it's made for the MT4 Platform.
 
-It's available for lease by contacting me via GitHub message.
+    It's available for lease by contacting me via GitHub message.
 
 # `M.V.P`
 
@@ -42,7 +42,7 @@ It's available for lease by contacting me via GitHub message.
 
 # `Tech Stack`
 
-Languages: MQL4, C++, MySQL, C#
+    Languages: MQL4, C++, MySQL, C#
 <br />
 <br />
 
