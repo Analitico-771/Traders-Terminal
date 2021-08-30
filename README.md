@@ -36,7 +36,7 @@ It's available for lease by contacting me via GitHub message.
 ![](/TradersTerminal3.PNG)
 
 # `Demo of the indicator`
-https://youtu.be/TGe7xLDinJA
+ * https://youtu.be/TGe7xLDinJA
 
 <br />
 
@@ -50,7 +50,7 @@ Languages: MQL4, C++, MySQL, C#
 
 ## Jose Tollinchi
 
-https://github.com/AnaIitico
+* https://github.com/AnaIitico
 
 <br />
 
