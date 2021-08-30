@@ -12,7 +12,6 @@
     It's available for lease by contacting me via GitHub message.
 
 # `M.V.P`
-
 ## Provide the following:
 
 - A user based input for displaying symbols on the dashboard.
@@ -36,7 +35,7 @@
 ![](/TradersTerminal3.PNG)
 
 # `Demo of the indicator`
- * https://youtu.be/TGe7xLDinJA
+- https://youtu.be/TGe7xLDinJA
 
 <br />
 
@@ -44,17 +43,16 @@
 
     Languages: MQL4, C++, MySQL, C#
 <br />
-<br />
 
 # `Developer Team`
 
 ## Jose Tollinchi
 
-* https://github.com/AnaIitico
+- https://github.com/AnaIitico
 
 <br />
 
 # `Resources`
 ## Documentation Resources
-* https://docs.mql4.com/basis
+- https://docs.mql4.com/basis
 
